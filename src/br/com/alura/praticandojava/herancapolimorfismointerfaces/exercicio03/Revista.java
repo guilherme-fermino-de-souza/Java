@@ -1,6 +1,6 @@
 package br.com.alura.praticandojava.herancapolimorfismointerfaces.exercicio03;
 
-public class Revista extends Midia{
+public class Revista extends Midia {
     private int edicao;
 
     public Revista(String titulo, int anoPublicacao, int edicao) {
